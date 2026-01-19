@@ -10,6 +10,11 @@ Knowing all of this, On the Road car insurance have requested your services in b
 
 **LINK:** https://www.datacamp.com/datalab/w/29de9078-46b8-4b84-8a3e-74a127730d60/edit
 
+**Questions :**
+
+**1 - Identify the single feature of the data that is the best predictor of whether a customer will put in a claim (the "outcome" column), excluding the "id" column.**
+
+**2 - Store as a DataFrame called best_feature_df, containing columns named "best_feature" and "best_accuracy" with the name of the feature with the highest accuracy, and the respective accuracy score.**
 
 **◎ How I approach the project :**
 
